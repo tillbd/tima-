@@ -2,7 +2,9 @@
 * {
 	box-sizing: border-box;
 }
+small{
 
+	font-family:  cursive; }
 body {
 	background-image: "0x0.jpg";
 	background-repeat: no-repeat;
